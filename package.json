@@ -1,0 +1,56 @@
+{
+  "name": "admin-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^20.3.48",
+    "@syncfusion/ej2-react-charts": "^20.3.48",
+    "@syncfusion/ej2-react-grids": "^20.3.48",
+    "@syncfusion/ej2-react-inputs": "^20.3.47",
+    "@syncfusion/ej2-react-kanban": "^20.3.47",
+    "@syncfusion/ej2-react-popups": "^20.3.47",
+    "@syncfusion/ej2-react-richtexteditor": "^20.3.47",
+    "@syncfusion/ej2-react-schedule": "^20.3.47",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "deps": "^1.0.0",
+    "peer": "^0.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "5.0.1",
+    "reactjs-tailwind": "^0.1.9",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8"
+  }
+}
